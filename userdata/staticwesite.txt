@@ -1,0 +1,31 @@
+git sudo yum -y update
+sudo amazon-linux-extras install epel
+sudo yum  install nginx -y
+sudo systemctl start nginx
+sudo systemctl status nginx
+sudo systemctl enable nginx
+vim /etc/nginx/conf.d/default.conf 
+
+server 
+{
+    listen  80;
+
+    server_name localhost;
+
+    location / {
+        root  /var/www/html;
+        index  index.html index.htm;
+        try_files $uri $uri/ =404;
+    }
+
+    error_page  500 502 503 504  /50x.html;
+    location = /50x.html {
+        root  /usr/share/nginx/html;
+    }
+}
+sudo mkdir -p /var/www/html
+sudo cd /var/www/html
+sudo wget https://html5up.net/tessellate/download --no-check-certificate
+sudo unzip download
+sudo systemctl restart nginx 
+
