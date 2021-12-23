@@ -123,7 +123,10 @@ Time taken : 4 hours
 
 Learned to install Terraform and worked out some basic commands like terraform init, terraform plan, terraform apply, terraform destroy and deployed AWS EC2 instance using terraform.
 
-Link as follows : https://learn.hashicorp.com/tutorials/terraform/aws-destroy?in=terraform/aws-get-started https://www.youtube.com/watch?v=l5k1ai_GBDE https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/subnet https://www.youtube.com/watch?v=SLB_c_ayRMo
+Link as follows : https://learn.hashicorp.com/tutorials/terraform/aws-destroy?in=terraform/aws-get-started 
+                  https://www.youtube.com/watch?v=l5k1ai_GBDE 
+                  https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/subnet
+                  https://www.youtube.com/watch?v=SLB_c_ayRMo
 
 Time taken : 7 hours
 
@@ -135,11 +138,27 @@ Link as follows :https://www.youtube.com/watch?v=SLB_c_ayRMo https://registry.te
 
 Time taken : 5 hours
 
-**December 21st**
+**December 20 21st**
+
+Took Leave for personal reason.
+
+**December 22nd**
 
 Continued with terraform basic commands like terraform state, terraform state list, terraform state show, terraform variables.
 
 Link as follows :https://www.youtube.com/watch?v=SLB_c_ayRMo
 
 Time taken : 5 hours
+
+**December 23rd**
+
+Corrected the mistakes done in deploying AWS EC2 instance using terraform . Reffered documents and learned terraform variable, and got stuck with some errors.Tried to rectify it by using the following links : https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/instance
+                            https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/ebs_volume
+                            https://www.terraform.io/language/values/variables#type-constraints
+
+ Time taken : 8 hours                           
+
+
+
+
 
