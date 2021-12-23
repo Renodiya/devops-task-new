@@ -1,0 +1,14 @@
+#!/bin/bash
+
+sudo yum -y update
+sudo amazon-linux-extras install epel
+sudo yum  install nginx -y
+sudo systemctl start nginx
+sudo systemctl status nginx
+sudo systemctl enable nginx
+
+sudo rm -rf /usr/share/nginx/html/*
+
+sudo wget https://html5up.net/tessellate/download --no-check-certificate -P /tmp/
+sudo unzip /tmp/download -d /usr/share/nginx/html/
+
