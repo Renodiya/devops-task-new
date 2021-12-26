@@ -158,6 +158,14 @@ Corrected the mistakes done in deploying AWS EC2 instance using terraform . Reff
 
  Time taken : 8 hours                           
 
+**December 24th** 
+
+Revised with git basic commands and worked on it . Rectified errors upon working on it.
+
+Link as follows : https://www.youtube.com/watch?v=RGOj5yH7evk
+
+Time taken : 6 hours
+
 
 
 
