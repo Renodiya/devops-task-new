@@ -166,6 +166,15 @@ Link as follows : https://www.youtube.com/watch?v=RGOj5yH7evk
 
 Time taken : 6 hours
 
+**December 26**
+
+Learned about AWS Basics and Amazon Elastic Compute Cloud (EC2) and worked on it.
+
+Link as follows : https://www.youtube.com/watch?v=ulprqHHWlng&t=2506s
+
+**December 27**
+
+
 
 
 
