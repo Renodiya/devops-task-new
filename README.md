@@ -176,11 +176,21 @@ Time taken : 5 hours
 
 **December 27**
 
-Started to understand DevOps tools ie, Docker. Got some basic idea about what is Docker and how does it work.
+Started to learn about DevOps tools ie, Docker. Got some basic idea about what is Docker and how does it work.
 
 Link as follows : https://www.youtube.com/watch?v=rOTqprHv1YE
 
 Time taken : 2 hours
+
+**December 28**
+
+Revised Nginx concept,its working principle. Also, understood Amazon EC2 concepts.
+
+Link as follows : https://www.youtube.com/watch?v=ozhe__GdWC8
+                  https://www.youtube.com/watch?v=WHv_t_yK-QM
+                  https://www.youtube.com/watch?v=ulprqHHWlng&t=2506s
+
+ Time took : 7 hours                 
 
 
 
