@@ -1,4 +1,4 @@
-git sudo yum -y update
+sudo yum -y update
 sudo amazon-linux-extras install epel
 sudo yum  install nginx -y
 sudo systemctl start nginx
