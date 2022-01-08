@@ -176,7 +176,7 @@ Time taken : 5 hours
 
 **December 27**
 
-Started to learn about DevOps tools ie, Docker. Got some basic idea about what is Docker and how does it work.
+Started to learn Docker. Got some basic idea about what is Docker and how does it work.
 
 Link as follows : https://www.youtube.com/watch?v=rOTqprHv1YE
 
